@@ -43,5 +43,6 @@
         - Compromised identities  
         - Advance Threat  
         - Malicious inside Users Actions  ...  
+        
     Then Alert and Flags are generated to help investigate further and correct this issues   
 
