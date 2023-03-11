@@ -1,7 +1,7 @@
 # SaaS - Identity - Access  
 
 ## Protecting Saas with Defender for Cloud Apps  
-    - The best solution for protection SaaS apps is Defender for Cloud Apps
+     - The best solution for protection SaaS apps is Defender for Cloud Apps
      - This is the recommendation from the Microsoft Cybersecurity Architecture Reference MCRA  
      - This is also the ideal solution to address Shadow IT  
 
@@ -43,6 +43,6 @@
         - Compromised identities  
         - Advance Threat  
         - Malicious inside Users Actions  ...  
-        
+
     Then Alert and Flags are generated to help investigate further and correct this issues   
 
