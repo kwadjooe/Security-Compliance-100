@@ -34,3 +34,14 @@
 
 
 ### Defender for Identity  
+
+    - Protect Identities on-prem or in the Cloud  
+
+        - how is this done ?
+
+    Event log are sent to Defender for Identity which Analyse the log looking for 
+        - Compromised identities  
+        - Advance Threat  
+        - Malicious inside Users Actions  ...  
+    Then Alert and Flags are generated to help investigate further and correct this issues   
+
