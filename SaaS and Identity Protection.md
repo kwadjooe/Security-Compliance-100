@@ -10,7 +10,15 @@ Microsoft Defender for Cloud is a cloud-native application protection platform (
      - This is the recommendation from the Microsoft Cybersecurity Architecture Reference MCRA  
      - This is also the ideal solution to address Shadow IT  
 
-![enter image description here](https://learn.microsoft.com/en-us/azure/defender-for-cloud/media/defender-for-cloud-introduction/defender-for-cloud-pillars.png)
+![enter image description here](https://learn.microsoft.com/en-us/azure/defender-for-cloud/media/defender-for-cloud-introduction/defender-for-cloud-pillars.png) 
+
+## Secure cloud applications
+Defender for Cloud helps you to incorporate good security practices early during the software development process, or DevSecOps. You can protect your code management environments and your code pipelines, and get insights into your development environment security posture from a single location. Defender for Cloud currently includes Defender for DevOps.
+
+Today’s applications require security awareness at the code, infrastructure, and runtime levels to make sure that deployed applications are hardened against attacks.  
+
+### Code Pipeline Insights  
+  Empowers security teams with the ability to protect applications and resources from code to cloud across multi-pipeline environments, including GitHub and Azure DevOps. Findings from Defender for DevOps, such as IaC misconfigurations and exposed secrets, can then be correlated with other contextual cloud security insights to prioritize remediation in code  
 
 ## Protecting Identities 
 
