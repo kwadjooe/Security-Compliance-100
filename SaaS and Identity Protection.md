@@ -6,9 +6,9 @@ Microsoft Defender for Cloud is a cloud-native application protection platform (
  * A development security operations (DevSecOps) solution that unifies security management at the code level across multicloud and multiple-pipeline environments  
  * A cloud security posture management (CSPM) solution that surfaces actions that you can take to prevent breaches  
  * A cloud workload protection platform (CWPP) with specific protections for servers, containers, storage, databases, and other workloads  
-     - The best solution for protection SaaS apps is Defender for Cloud Apps
-     - This is the recommendation from the Microsoft Cybersecurity Architecture Reference MCRA  
-     - This is also the ideal solution to address Shadow IT  
+ - The best solution for protection SaaS apps is Defender for Cloud Apps
+ - This is the recommendation from the Microsoft Cybersecurity Architecture Reference MCRA  
+ - This is also the ideal solution to address Shadow IT  
 
 ![enter image description here](https://learn.microsoft.com/en-us/azure/defender-for-cloud/media/defender-for-cloud-introduction/defender-for-cloud-pillars.png) 
 
