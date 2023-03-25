@@ -1,4 +1,6 @@
-# SaaS - Identity - Access  
+# Secuirty is huge and require a clear vision with a set of incremental daily progress toward that vision  
+
+## SaaS - Identity - Access  
 [Defender for Cloud Step-by-step walkthrough](https://mslearn.cloudguides.com/en-us/guides/Protect%20your%20multi-cloud%20environment%20with%20Microsoft%20Defender%20for%20Cloud)
 ## Protecting Saas with Defender for Cloud Apps  
 Microsoft Defender for Cloud is a cloud-native application protection platform (CNAPP) with a set of security measures and practices designed to protect cloud-based applications from various cyber threats and vulnerabilities. Defender for Cloud combines the capabilities of:
