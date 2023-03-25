@@ -1,9 +1,16 @@
 # SaaS - Identity - Access  
 
 ## Protecting Saas with Defender for Cloud Apps  
+Microsoft Defender for Cloud is a cloud-native application protection platform (CNAPP) with a set of security measures and practices designed to protect cloud-based applications from various cyber threats and vulnerabilities. Defender for Cloud combines the capabilities of:
+
+    - A development security operations (DevSecOps) solution that unifies security management at the code level across multicloud and multiple-pipeline environments  
+    - A cloud security posture management (CSPM) solution that surfaces actions that you can take to prevent breaches  
+    - A cloud workload protection platform (CWPP) with specific protections for servers, containers, storage, databases, and other workloads  
      - The best solution for protection SaaS apps is Defender for Cloud Apps
      - This is the recommendation from the Microsoft Cybersecurity Architecture Reference MCRA  
      - This is also the ideal solution to address Shadow IT  
+
+![enter image description here](https://learn.microsoft.com/en-us/azure/defender-for-cloud/media/defender-for-cloud-introduction/defender-for-cloud-pillars.png)
 
 ## Protecting Identities 
 
